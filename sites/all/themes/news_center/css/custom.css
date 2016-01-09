@@ -1,0 +1,81 @@
+/* custom.css
+ *
+ * Changes to the original news center are stored in this file, if a change has
+ * to be done that only works in certain sizes then they will be done in that
+ * respective css file. Example: a change that only works for tablets will be
+ * made in tablet-layout.css instead of here.
+ *
+ * changes here are done in no particular order
+ */
+.b-box{border: 1px solid black; padding:5px;}
+.polaroid {
+   
+    border:6px solid #f3f3f3;
+    border-radius:6px;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+   -webkit-box-shadow:1px 1px 6px #999;
+   -moz-box-shadow:1px 1px 6px #999;
+}
+/* change the header banner to be white*/
+#header{background-color: #fff !important;}
+
+/* change menu bar's background color to be purple*/
+#block-menu-menu-news-categories ul{background-color: #35004E;}
+#block-menu-menu-news-categories ul li{background-color: #35004E !important;}
+
+/*change the background image of the about us page*/
+#about_page{
+background-image: url("/centrovoices/sites/default/files/users/About-Page_2.jpg");
+height: 1200px;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: center;
+}
+
+#guidelines{
+	background-image: url("/centrovoices/sites/default/files/users/About-Page_2.jpg");
+}
+
+#block-views-critica-recent-entries-block img{
+	background-color: #fff;
+	padding:3px;
+	border: 1px solid #f5f5f5;
+	float: left;
+}
+
+#block-views-critica-recent-entries-block .views-row{
+	min-height: 50px;
+}
+
+#block-views-critica-recent-entries-block .views-field-title{
+	float: right;
+	width: 140px;
+}
+
+/*.section-barrios .content .node-teaser{
+	height: 0px;
+	display: none;
+}
+
+.section-chronicles .content .node-teaser{
+	height: 0px;
+	display: none;
+}
+
+.section-arts-culture .content .node-teaser{
+	height: 0px;
+	display: none;
+}*/
+
+.cs-float-left{
+	float:left;
+}
+
+.cs-float-right{
+	float:right;
+}
+
+.cs-display-hide{
+	height: 0px; visibility: hidden;
+}

@@ -1,0 +1,23 @@
+/*new css for custom Social Media Widget*/
+#block-block-25{width: auto;float:right; position:absolute; right: 10px; top: 160px;}
+
+#block-block-26{width: auto;float:right; position:absolute; right: 10px; top: 160px;}
+
+#block-views-4b45768f466bbd3cc624300b77ac3fbe{width: 728px;}
+
+.view-weeks-most-popular-front-column .view-content .views-row{height: 50px; padding-top:5px; 
+padding-bottom:5px; border-top:1px dashed #d5d5d5;border-bottom:1px dashed #d5d5d5;}
+
+.view-weeks-most-popular-front-column .view-content .views-row-first{padding-top:0px;border-top:none;}
+
+.view-weeks-most-popular-front-column .view-content .views-row-last{padding-bottom:0px; border-bottom:none;}
+
+.view-weeks-most-popular-front-column .view-content .views-row .views-field-field-image{height:45px; width: 45px; float:left;}
+
+.view-weeks-most-popular-front-column .view-content .views-row .views-field-field-image img{padding: 3px; background-color: #fff;
+border: 1px solid #ccc;}
+
+.view-weeks-most-popular-front-column .view-content .views-row .views-field-title{width: 680px; float: right;}
+
+.view-weeks-most-popular-front-column .view-content .views-row .views-field-title a{text-decoration: none; font-weight: 400;
+font-style: normal;font-size: 12.4833px;font-family: Arial,sans-serif;}
